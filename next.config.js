@@ -6,7 +6,7 @@ const nextConfig = {
 
 module.exports = nextConfig
 
-
+# hi
 module.exports = {
   images: {
     unoptimized: true,
